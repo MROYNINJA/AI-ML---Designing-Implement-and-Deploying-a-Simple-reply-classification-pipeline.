@@ -1,0 +1,8 @@
+Notes on adaptation (how to personalize the project)
+
+- Replace generic variable names and comments with specific choices you made (e.g., why ngram_range=(1,2), why max_features=20000).
+- Add a short section "My contributions" listing what you actually did (data cleaning, modeling, deployment).
+- Include short screenshots of evaluation output or a 1-min demo video you recorded with your voice explaining the tradeoffs — this signals authenticity.
+- If you fine-tune the transformer, mention hyperparameters you tried and why you changed them.
+- Write the README in first person (“I”) and include small code snippets you actually ran (logs, metrics).
+- Cite this repository as “sample/template used for learning” if you adapted large parts.
